@@ -70,11 +70,11 @@ Developed by: CHIDROOP M J
 RegisterNumber: 212225240029
 ```
 **Logic symbol & Truthtable**
-
+![Alt text](logicgates.png)
 **RTL realization Output:** 
-
+![Alt text](logicdiag.png)
 **RTL**
-
+![Alt text](waveform.png)
 **Result:**
 
 
