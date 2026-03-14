@@ -76,5 +76,5 @@ RegisterNumber: 212225240029
 **RTL**
 ![Alt text](waveform.png)
 **Result:**
-
+Thus the truth table of the logic gates in Quartus 2 using verilog programming is studied and verified successfully
 
